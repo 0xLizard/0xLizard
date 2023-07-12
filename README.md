@@ -31,4 +31,6 @@
 - 🔭 I’m currently working at **Phobia**.
 
 - 📫 You can contact me on discord, **0xffff#8856**.
+
+- 🛸 You can also contact me via, **https://discord.gg/uhvYmyDsfT**
 <!--Intro end-->
