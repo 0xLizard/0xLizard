@@ -20,15 +20,15 @@
 <!--h2 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h2 style="display: inline-block">Currently newbie at programming</h2></summary>
+    <summary><h2 style="display: inline-block">I'm newbie at programming.</h2></summary>
   </ul>
 </div>
 
 
 <!--Intro start-->
-- 🌱 I’m currently learning **C# and C++**
+- 🌱 I’m currently learning **C# and C++**.
 
-- 🔭 I’m currently working at **Phobia**
+- 🔭 I’m currently working at **Phobia**.
 
-- 📫 Feel free to reach me out **0xffff#8856**
+- 📫 You can contact me on discord, **0xffff#8856**.
 <!--Intro end-->
